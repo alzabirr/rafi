@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.poor-img{
+    background-image: url('../images/donation13.jpg');
+    height:100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+
+.header-tex{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 78.66px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 174px 307px 20px 307px;
+}
+
+.sub-header{
+    color: #FFFFFF;
+    padding: 0px 374px 30px 375px;
+    text-align: center;
+    line-height: 28px;
+
+}
+
+.common-btn{
+    width: 160px;
+    height: 56px;
+    border-radius: 5px;
+    background-color:  #FF5959;
+    border: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    justify-content:center;
+    /* text-align: center;   problem btn center a jai na; */
+}
+
+
+.container{
+    margin: 0 375px;
+    margin-top: 130px;
+}
+.container .title .main-title{
+
+color: red;
+font-size: 45px;
+font-weight:700;
+text-align: center;
+}
+
+.sub-title{
+    font-weight: 400px;
+    font-size: 18px;
+    color:#707070;
+    line-height: 28px;
+    padding-top: 20px;
+
+
+}
+
+
+.box{
+    display: flex;
+    gap: 40px;
+    margin: 0 375px;
+    margin-top: 50px;
+}
+
+.mini-box{
+    height: 123px;
+    width: 100px;
+    font-size: 30px;
+    width: 700;
+    border: 2px slid black;
+    background-color:#FAFAFA;;
+    color: #707070;
+    padding: 43px 25px 44px 24px;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+
+.mini-box:hover{
+    color: red;
+    border-radius:5px;
+    border: 1px solid #FF5959;
+    ;
+    background-color: #FF5959;
+    
+}
+
+
+
+
